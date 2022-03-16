@@ -9,7 +9,7 @@
 {"node":6,"name":"StreamSets Transformer"},
 {"node":7,"name":"StreamSets Data Collector"},
 {"node":8,"name":"MongoDB"},
-{"node":9,"name":"AWS S3"},
+{"node":9,"name":"AWS S3"}
 ],
 "links":[
 {"source":0,"target":6,"value":2},
